@@ -13,8 +13,7 @@ public class C3
 		System.out.println(k);
 
 	}
-void subtraction(int b,int a
-		)
+void subtraction(int b,int a)
 {
 	int i=b-a;
 	System.out.println(i);
