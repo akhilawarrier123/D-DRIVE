@@ -24,7 +24,7 @@ public class String1
 
 public static void main(String[] args)
 	{
-String input="vikramvedhav";
+String input="vikramvedha";
 int x=String1.CountOfLetter(input);
 System.out.println(x);
 	}
