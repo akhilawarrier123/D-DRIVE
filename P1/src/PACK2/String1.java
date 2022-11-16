@@ -10,7 +10,7 @@ public class String1
 		String[] ab=z.split("");
 	for(int i=0;i<ab.length;i++)
 	{
-		if(ab[i].equals("v"))
+		if(ab[i].equals("v")) 
 {
 		count++;
 }
@@ -24,8 +24,8 @@ public class String1
 
 public static void main(String[] args)
 	{
-String input="vikramvedha";
-int x=String1.CountOfLetter(input);
+//String input="vikramvedha";
+int x=String1.CountOfLetter("vikramvedha");
 System.out.println(x);
 	}
 

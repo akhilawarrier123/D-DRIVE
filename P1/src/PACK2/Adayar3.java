@@ -15,11 +15,12 @@ public class Adayar3
 	public static void main(String[] args) 
 	{
 		Adayar3 X1=new Adayar3();
-		String n=X1.oldAirportRoad(10);
-		System.out.println(n);
+		
+		System.out.println(X1.oldAirportRoad(10));
        
 
 	}
+}
 
 //dbt
 	
