@@ -37,6 +37,6 @@ public class Duplicate {
 		for (int m = 0; m < b.length; m++) {
 		System.out.println("printing"+b[m]);
 		}
-
+System.out.println(b[b.length-1]);
 	}
 }
