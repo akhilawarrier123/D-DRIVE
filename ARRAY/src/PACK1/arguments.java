@@ -12,3 +12,8 @@ System.out.println("output"+(Integer.parseInt(args[0])+Integer.parseInt(args[1])
 
 }
 // right click > run as> run configeration>select the class >take argument>give numbers 10 20 >apply >run
+
+
+
+
+
