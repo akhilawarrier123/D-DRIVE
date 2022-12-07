@@ -5,7 +5,7 @@ public class MD2 {
 	public static void main(String[] args) 
 	{
 String[][] x1= {{"kevin","40"},{"thomas","50"}};
-int[][] b=new int[3][3];
+//int[][] b=new int[3][3];
 int i=0;
 int j=0;
 int count=0;
