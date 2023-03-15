@@ -7,7 +7,7 @@ public class Adayar3
 	{
 		String a="BMTC";
 		a=a.concat("A");
-		String n=a+b;
+		//String n=a+b;
 		
 	}
 	
@@ -15,6 +15,7 @@ public class Adayar3
 	public static void main(String[] args) 
 	{
 		Adayar3 X1=new Adayar3();
+		String m=(X1.oldAirportRoad(10)
 		
 		System.out.println(X1.oldAirportRoad(10));
        

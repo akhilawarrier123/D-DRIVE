@@ -15,8 +15,7 @@ public class C4
 			return k;
 
 		}
-	int subtraction(int b,int a
-			)
+	int subtraction(int b,int a)
 	{
 		int i=b-a;
 		System.out.println(i);
